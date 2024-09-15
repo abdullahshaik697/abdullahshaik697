@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abdullahshaik697
+- 👋 Hi, I’m Abdullah Shaikh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on JAVA-
-- 📫 How to reach me Email: abdullahshaik55555@gmail.com 
+- 💞️ I’m looking to collaborate on JAVA & Web Development
+- 📫 How to reach me Email: abdullahshaik55555@gmail.com
